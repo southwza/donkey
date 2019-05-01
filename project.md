@@ -1,6 +1,6 @@
 ## Final Project: Training a Self-Driving RC Car
 
-Howie Benefiel and Zach Southwell
+<sub>Howie Benefiel and Zach Southwell</sub>
 
 For our final project, we decided to build and train an autonomous vehicle using the Donkey Car platform.
 
@@ -30,6 +30,7 @@ A big consideration when collecting data is managing generalization error. The o
 
 We performed many training runs on different courses both inside and outside.  Here are some highlights:
 
+![training compilation](training.mp4)
 
 
 Outdoor training runs: [add some info on the outdoor training?]
@@ -67,11 +68,3 @@ Models are trained with Tensorflow using the annotated images collected during t
 [5] https://diyrobocars.com
 
 [6] https://github.com/tawnkramer/donkeycar
-
-
-
-
-
-
-
-![enter image description here](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
