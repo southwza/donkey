@@ -1,6 +1,6 @@
 ## Final Project: Training a Self-Driving RC Car
 
-<sub>Howie Benefiel and Zach Southwell</sub>
+<sup>Howie Benefiel and Zach Southwell</sup>
 
 For our final project, we decided to build and train an autonomous vehicle using the Donkey Car platform.
 
@@ -32,16 +32,14 @@ We performed many training runs on different courses both inside and outside.  H
 
 ![training compilation](training.mp4)
 
-
 Outdoor training runs: [add some info on the outdoor training?]
 
 Indoor training runs were done in a lighted 320 square foot building with windows allowing a variable amount of additional light in. The autopilot performed fairly well after training on the first course at night:
 
-
-
 The same autopilot did not do so well during daytime when lighting was different.  Additional training runs were done various daylight conditions, and also with several different course setups, including a couple of courses that were designed to present the autopilot nearly identical backdrops where the only visual cue would be the course markings:
 
-
+![same background](same_backdrop1.png)
+![same background](same_backdrop2.png)
 
 The final training indoor course was relatively more complex, but after training with all the previous courses, the autopilot performed very well.
 
